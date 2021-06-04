@@ -1,5 +1,5 @@
 # Reading csv file
-data <- read.csv('datasets/Student.csv',header=TRUE)
+data <- read.csv('Student.csv',header=TRUE)
 print(head(data))
 #Data preprocessing
 print(dim(data))
